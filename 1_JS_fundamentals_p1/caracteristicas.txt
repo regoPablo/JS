@@ -1,0 +1,10 @@
+Caracteristicas principales de JS:
+
+1-Lenguaje de alto nivel: a traves de las abstracciones del lenguaje JS nos permite
+programar sin tener que preocuparnos por cosas de bajo nivel como podria ser 
+la gestion de la memoria
+
+2-Orientado a objetos: esta basado en objetos como la forma principal de organizar los datos de la aplicacion
+
+3-Multiparadigma: JS nos permite la flexibilidad de utilizar diferentes estilos de programacion... 
+declarativa, imperativa...
