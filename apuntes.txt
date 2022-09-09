@@ -1,0 +1,11 @@
+Variables.
+
+Variables de estado: son variables cuyo datos son importantes en cuanto al estado 
+de la aplicacion se refiere. Ejemplo: En un juego podemos guardar en una variable booleana 
+si la partida esta en curso(true) o bien si la partida está pausada(false). Incluso podríamos 
+crear una variable númerica que definiese varios tipos de estados e.g.,
+
+let gameStatus = 0 (menu principal, la partida aun no empezo)
+let gameStatus = 1 (partida en curso)
+let gameStatus = 2 (partida en pausa)
+let gameStatus = 3 (partida finalizada

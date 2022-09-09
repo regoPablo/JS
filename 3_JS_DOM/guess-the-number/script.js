@@ -23,6 +23,7 @@ function retryGame() {
   document.querySelector('.guess').value = '';
   document.querySelector('.message').textContent = 'Start guessing... ';
   document.querySelector('.message').style.color = 'white';
+  document.querySelector('body').style.backgroundColor = '#222';
 }
 
 function check() {
@@ -51,6 +52,7 @@ function checkResult(guessedNumber) {
     outputMessage.textContent = 'Has acertado';
     outputMessage.style.color = '#51ad51';
     document.querySelector('.number').textContent = randomNumber;
+    document.querySelector('body').style.backgroundColor = '#47b547';
 
     if (score > highscore) {
       highscore = score;
