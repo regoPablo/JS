@@ -1,0 +1,31 @@
+-Lenguaje de alto nivel
+
+Los lenguajes de alto nivel se caracterizan principalmente por la facilidad que otorgan al programador
+a la hora de controlar los recursos internos del computador. Por ejemplo, en un lenguaje de bajo nivel 
+como podría ser C, el programador tiene que asignar de forma manual el tamaño de memoria que quiere 
+asignar a una variable. En cambio en un lenguaje de alto nivel como JS este proceso se hace de forma automatica
+a traves de las llamadas abstraciones. 
+
+    Ventajas: 
+        -Facilidad de uso
+
+    Desventajas:
+        -Nunca serán tan rapidos ni se podran optimizar tanto los programas como con un lenguaje de bajo nivel
+
+
+-Garbage-collected
+
+JS elimina de forma automatica aquellos recursos inutilizados de la memoria del ordenador
+
+-JIT, o just-in-time compiled
+
+-Multi-paradigna
+
+Utiliza varios tipos de tecnicas y estructuras de programación.
+    -Programacion procedural
+    -Orientada a objetos
+    -Funcional
+
+    -Programacion imperativa vs declarativa
+
+-Orientacion a objetos basada en prototipos
