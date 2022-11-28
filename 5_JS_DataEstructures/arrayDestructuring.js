@@ -1,10 +1,10 @@
-"use stric";
+'use stric';
 
 //Usando destructuring podemos asignar valores de un array a variables
 const clases = {
-  monje: ["Paladin", "Clerigo", "Justiciero"],
-  asesino: ["Ninja", "ShadowBlade", "NightBlade"],
-  mago: ["Arcano", "Elemental", "Cronomancer", "Hemomancer"],
+  monje: ['Paladin', 'Clerigo', 'Justiciero'],
+  asesino: ['Ninja', 'ShadowBlade', 'NightBlade'],
+  mago: ['Arcano', 'Elemental', 'Cronomancer', 'Hemomancer'],
   eligeFavoritos: function (favMonje, favAsesino, favMago) {
     return [this.monje[favMonje], this.asesino[favAsesino], this.mago[favMago]];
   },
